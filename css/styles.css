@@ -488,8 +488,8 @@ header {
 .title-header3-footer {
     margin: 0px 0px 16px 0px;
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--white-text-color);
 }
@@ -516,6 +516,18 @@ header {
     background-color: #31D0AA;
     cursor: pointer;
 }
+.form-container {
+    display: block;    
+}
+.title-header3-form {
+    margin: 0px 0px 16px 0px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--white-text-color);
+}
+
 .backdrop {
     position: fixed;
     top: 0;
