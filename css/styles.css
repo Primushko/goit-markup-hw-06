@@ -640,7 +640,8 @@ header {
     position: absolute;
     top: 50%;
     left: 16px;    
-    transform: translateY(-50%);    
+    transform: translateY(-50%); 
+    fill: #2E2F42;   
 }
 .modal-form-input:focus + .modal-form-input-icon {
     fill: #4D5AE5;
