@@ -526,9 +526,6 @@ header {
     background-color: #31D0AA;
     cursor: pointer;
 }
-.form-container {
-    display: block;    
-}
 .title-header3-form {
     margin: 0px 0px 16px 0px;
     font-weight: 500;
