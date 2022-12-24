@@ -534,6 +534,9 @@ header {
     letter-spacing: 0.02em;
     color: var(--white-text-color);
 }
+.form-footer {
+    display: flex;
+}
 .form-footer-subscribe {
     display: flex;
     width: 264px;
