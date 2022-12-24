@@ -538,7 +538,7 @@ header {
     margin-left: auto;
 }
 .form-footer {
-    display: flex;
+    display: flex;    
 }
 .form-footer-subscribe {
     display: flex;
@@ -553,7 +553,7 @@ header {
 .form-footer-submit {   
     display: flex;   
     justify-content: center;
-    align-items: center;
+    align-items: center;       
     padding: 8px 24px;
     width: 165px;
     height: 40px;
