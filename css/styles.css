@@ -534,6 +534,9 @@ header {
     letter-spacing: 0.02em;
     color: var(--white-text-color);
 }
+.form-container {
+    margin-left: auto;
+}
 .form-footer {
     display: flex;
 }
