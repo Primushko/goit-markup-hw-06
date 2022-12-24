@@ -551,10 +551,10 @@ header {
     background-color: var(--navyblue-color);
 }
 .form-footer-submit {   
-    display: flex;   
-    justify-content: center;
+    display: flex;     
     align-items: center;       
-    padding: 8px 24px;
+    padding: 8px 24px;    
+    margin: 0;
     width: 165px;
     height: 40px;
     font-weight: 500;
