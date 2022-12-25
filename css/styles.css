@@ -550,6 +550,9 @@ header {
     border-radius: 4px;
     background-color: var(--navyblue-color);
 }
+.form-footer-icon {
+    margin-left: 16px;    
+}
 .form-footer-submit {   
     display: flex;     
     align-items: center;       
