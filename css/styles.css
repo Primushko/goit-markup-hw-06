@@ -554,7 +554,7 @@ header {
     display: flex;     
     align-items: center;       
     padding: 8px 24px;    
-    margin: 0;
+    margin-left: 24px;
     width: 165px;
     height: 40px;
     font-weight: 500;
